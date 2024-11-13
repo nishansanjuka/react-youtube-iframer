@@ -1,5 +1,11 @@
 # @nishansanjuka/react-yt-framer
 
+## 1.1.0
+
+### Minor Changes
+
+- initial release npm
+
 ## 1.0.0
 
 ### Major Changes
