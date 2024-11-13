@@ -1,6 +1,6 @@
 {
   "name": "@nishansanjuka/react-yt-framer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a provider and a component for handling youtube frames",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
